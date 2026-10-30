@@ -1,5 +1,13 @@
 # TreeParity
 
+<!-- REPOSITORY-HEALTH:START -->
+[![Code quality](https://github.com/VireonNoctis/TreeParity/actions/workflows/repository-health.yml/badge.svg?branch=main)](https://github.com/VireonNoctis/TreeParity/actions/workflows/repository-health.yml)
+[![Top language](https://img.shields.io/github/languages/top/VireonNoctis/TreeParity?style=flat-square)](https://github.com/VireonNoctis/TreeParity)
+[![Languages](https://img.shields.io/github/languages/count/VireonNoctis/TreeParity?style=flat-square)](https://github.com/VireonNoctis/TreeParity)
+[![Automated tech stack](https://img.shields.io/badge/tech_stack-auto--detected-64748b?style=flat-square)](TECH_STACK.md)
+<!-- REPOSITORY-HEALTH:END -->
+
+
 <p align="center">
   <strong>A successful copy is not always a faithful copy.</strong><br/>
   A filesystem transfer conformance laboratory for measuring what survives across filesystems, operating systems, archives, and sync tools.
